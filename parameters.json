@@ -1,0 +1,16 @@
+[
+  {
+    "VpcId": "vpc-6fab9715",
+    "Subnets": "subnet-1f44a479,subnet-99f814c6,subnet-a9f0c797,subnet-372fc116",
+    "KeyName": "demo",
+    "DBName": "mydatabse",
+    "DBUser": "dbadmin",
+    "DBPassword": "XXXX",
+    "DBAllocatedStorage": "20",
+    "DBInstanceClass": "string",
+    "MultiAZDatabase": "true",
+    "WebServerCapacity": "2",
+    "InstanceType": t2.micro,
+    "SSHLocation": "0.0.0.0/0"
+  }
+]
