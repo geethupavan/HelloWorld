@@ -10,7 +10,7 @@
     "DBInstanceClass": "string",
     "MultiAZDatabase": "true",
     "WebServerCapacity": "2",
-    "InstanceType": t2.micro,
+    "InstanceType": "t2.micro",
     "SSHLocation": "0.0.0.0/0"
   }
 ]
