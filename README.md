@@ -17,4 +17,4 @@ We can use the below commnand to create the stack. But I created this by uploadi
 aws cloudformation  create-stack --stack-name geethika-web --template-url  https://helloworld-cloudformation.s3.amazonaws.com/Hello_World.json --parameters file://parameters.json
 --tags Key=Name, Value=Geethika-web --on-failure ROLLBACK --role-arn arn:aws:iam::257736767631:role/XXX
 
-Note : Please find the parameters.json file
+Note : Please find the parameters.json
